@@ -1,17 +1,15 @@
-# {Team Name} - URL shortener {🧪}
-
-This is a template project for "Software testing" course labs. Use it to create your own repo and 
-fulfill/rewrite this document (at least, replace everything in `{...}`).
+# Жека и 3 гнома - URL shortener {🧪}
 
 ## Students group
 
-- {Surname Name (in Ukrainian)} {email}
-- ...
-- {Surname Name (in Ukrainian)} {email}
+- Красношапка Євгеній ryorenzo12@gmail.com
+- Капінус Артем kapinusartem.main@gmail.com
+- Березовський Антон tohiix@gmail.com
+- Давиденко Валерій vn.mechanic@gmail.com
 
 ## Design document
 
-The [design document]({Place actual link to the design document Google Docs file here}) that
+The [design document](https://docs.google.com/document/d/1fUpBESqRjYXvH0tiUt2d3xwbowTgnYpiwYEwDnzJfFc/edit?ts=602e9ad9) that
 describes architecture and implementation details of this project.
 
 ### System structure
@@ -58,10 +56,6 @@ plugin. We use Google rules (local copy `./config/checkstyle/checkstyle.xml`).
     2. Go to `Editor` -> `Code Style` -> `Import Scheme`
        ![Settings screenshot](./media/code-style-import.png)
     3. Import scheme from `./config/idea/intellij-java-google-style.xml`
-
-## Commit messages
-
-Write commit messages accordingly by [7 rules of good commit messages].
   
 [JDK]: https://en.wikipedia.org/wiki/Java_Development_Kit
 [IntelliJ Idea Edu]: https://www.jetbrains.com/idea-edu/
